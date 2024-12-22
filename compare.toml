@@ -104,7 +104,7 @@ flow_sharing = true
 support = false
 dashboard_themes = false
 bot_dashboard = true
-notes = " "
+notes = "Bots go offline after 48 hours without commands being triggered"
 
 [BotGhost_Premium_Single_Bot]
 price_monthly = 1100
